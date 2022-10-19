@@ -3,11 +3,11 @@
 
 ## Автор - Александр Копосов
 
-Проект доступен по [ссылке]
+Проект доступен по http://62.113.107.130/
 
-Админка доступна по [ссылке]
-* логин - admin
-* пароль - admin
+Админка доступна по http://62.113.107.130/admin/
+* логин - sanjke007@gmail.com
+* пароль - aVcKnNbFS
 
 
 # Оглавление
@@ -234,7 +234,7 @@
 DB_ENGINE=django.db.backends.postgresql
 POSTGRES_DB=foodgram
 POSTGRES_USER=postgres
-POSTGRES_PASSWORD=admin
+POSTGRES_PASSWORD=postgres
 POSTGRES_HOST=db
 DB_PORT=5432
 SECRET_KEY='m@o%(t!^b1o^q+x#8&d9a#sta@_^zs0+(v+o5_70s&y8@oz00+'
